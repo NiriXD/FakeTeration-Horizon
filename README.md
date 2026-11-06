@@ -11,9 +11,9 @@
 
 
 ### 📥 Looking for the Download?
-All downloads, updates, and releases are **[Here](releases)**
+All downloads, updates, and releases are **[Here](https://github.com/NiriXD/FakeTeration-Horizon/releases/tag/Release)**
 
-👉 **Get the Latest Release in [Here](releases)**
+👉 **Get the Latest Release in [Here](https://github.com/NiriXD/FakeTeration-Horizon/releases/tag/Release)**
 
 
 ---
