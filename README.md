@@ -11,9 +11,9 @@
 
 
 ### 📥 Looking for the Download?
-All downloads, updates, and releases are **[Here](releases/latest)**
+All downloads, updates, and releases are **[Here](releases)**
 
-👉 **Get the Latest Release in [Here](releases/latest)**
+👉 **Get the Latest Release in [Here](releases)**
 
 
 ---
